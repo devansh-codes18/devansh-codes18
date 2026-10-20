@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there 👋 I'm Devansh Arora
 
-<!--
-**devansh-codes18/devansh-codes18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Software Developer | IT Student | Tech Enthusiast**
 
-Here are some ideas to get you started:
+I'm a passionate learner exploring software development and building projects to improve my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building programming and database projects
+- Improving my problem-solving skills
+- Exploring web development and backend technologies
+
+- **Languages:** C, Java, SQL
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, XAMPP
+
+### 📫 How to Reach Me
+- **GitHub:** [@devansh-codes18](https://github.com/devansh-codes18)
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
