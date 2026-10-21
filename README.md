@@ -8,7 +8,7 @@ I'm a passionate learner exploring software development and building projects to
 - Improving my problem-solving skills
 - Exploring web development and backend technologies
 
-- **Languages:** C, Java, SQL
+- **Languages:** C, SQL
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code, XAMPP
 
